@@ -3,6 +3,7 @@ from app.models import Brand, Mention
 from app.fetchers.newsapi_fetcher import fetch_news_for_brand
 from app.fetchers.reddit_fetcher import fetch_reddit_for_brand
 from app.fetchers.rss_fetcher import fetch_rss_for_brand
+from app.utils.alerts import detect_spike
 
 def _safe_iso(dt):
     if isinstance(dt, str):
@@ -56,6 +57,10 @@ def fetch_and_ingest_for_brand(brand_obj):
         rss = fetch_rss_for_brand(brand_name, limit=10) or []
     except Exception as e:
         print("rss error", e); rss = []
+    try:
+        detect_spike(brand_obj)
+    except Exception as e:
+        print("alert detect error", e)
 
     combined = []
     for it in news:
