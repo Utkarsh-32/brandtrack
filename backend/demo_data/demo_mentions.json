@@ -1,0 +1,2702 @@
+[
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:11:53.839445+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about HackX acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T09:49:53.839464+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise YourBrand's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:55:53.839470+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:09:53.839473+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise HackX's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:11:53.839476+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about AcmeCorp acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:46:53.839479+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:30:53.839482+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:25:53.839487+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T08:02:53.839492+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise YourBrand's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:09:53.839496+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise YourBrand's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:49:53.839498+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:06:53.839501+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:32:53.839503+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about AcmeCorp acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T10:02:53.839506+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:23:53.839508+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:44:53.839511+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:27:53.839513+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about HackX acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:15:53.839515+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:28:53.839518+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:58:53.839520+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:52:53.839523+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:01:53.839525+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:02:53.839527+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:53:53.839530+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T07:11:53.839532+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise YourBrand's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:51:53.839535+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:20:53.839537+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise HackX's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T10:07:53.839540+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:08:53.839542+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:34:53.839545+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:13:53.839547+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise HackX's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:31:53.839549+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:56:53.839551+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T10:03:53.839554+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:38:53.839556+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:27:53.839559+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T08:06:53.839561+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T07:52:53.839563+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:14:53.839566+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:48:53.839568+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:00:53.839570+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:10:53.839573+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T07:38:53.839575+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:40:53.839578+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:34:53.839580+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:35:53.839582+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:56:53.839585+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:42:53.839587+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about YourBrand acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:07:53.839589+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T07:18:53.839592+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:04:53.839594+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T07:16:53.839596+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:59:53.839598+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:54:53.839601+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:32:53.839603+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:29:53.839605+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:10:53.839607+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about HackX acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T09:58:53.839610+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:14:53.839612+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about YourBrand acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T09:57:53.839614+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T07:10:53.839617+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise YourBrand's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:13:53.839619+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T08:58:53.839621+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:30:53.839624+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise YourBrand's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:01:53.839627+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:05:53.839630+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:30:53.839632+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:47:53.839635+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:31:53.839637+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about AcmeCorp acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:56:53.839640+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise HackX's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:25:53.839642+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:11:53.839645+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T07:33:53.839647+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about HackX acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T09:51:53.839649+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:06:53.839652+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise YourBrand's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:12:53.839654+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T10:09:53.839656+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T07:29:53.839659+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:37:53.839662+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:12:53.839664+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about YourBrand acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:14:53.839666+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:02:53.839669+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T07:54:53.839671+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T07:16:53.839673+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:28:53.839676+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T08:30:53.839678+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:25:53.839680+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise YourBrand's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:44:53.839683+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T08:23:53.839685+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:44:53.839687+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T09:18:53.839690+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise HackX's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:57:53.839692+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:07:53.839695+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:39:53.839698+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about AcmeCorp acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:35:53.839700+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:54:53.839703+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about HackX acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T07:30:53.839705+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:11:53.839707+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:44:53.839710+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:32:53.839712+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:28:53.839714+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:32:53.839717+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:14:53.839719+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:41:53.839722+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise YourBrand's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:21:53.839724+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:20:53.839726+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:24:53.839729+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T07:20:53.839731+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:59:53.839734+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:59:53.839736+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about YourBrand acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:43:53.839738+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:10:53.839741+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T07:26:53.839743+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:58:53.839746+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T07:27:53.839748+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:32:53.839750+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:23:53.839753+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:35:53.839755+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:10:53.839758+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:50:53.839760+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:48:53.839762+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:50:53.839765+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about YourBrand acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:02:53.839767+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about HackX acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T07:47:53.839769+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T10:00:53.839772+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise HackX's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:53:53.839774+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:26:53.839776+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about YourBrand acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:37:53.839779+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:50:53.839781+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:07:53.839784+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T09:57:53.839786+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:46:53.839789+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:40:53.839791+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:57:53.839793+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about AcmeCorp acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T10:09:53.839796+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise YourBrand's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:14:53.839798+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about YourBrand acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T07:17:53.839800+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about HackX acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T07:52:53.839803+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:23:53.839805+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T07:48:53.839807+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:53:53.839809+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:40:53.839812+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:05:53.839814+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:12:53.839816+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:53:53.839819+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about HackX acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T09:04:53.839821+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise HackX's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:20:53.839824+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T09:52:53.839826+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:31:53.839828+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:50:53.839831+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:43:53.839833+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about HackX acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T07:49:53.839835+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:42:53.839838+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T07:10:53.839840+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:36:53.839842+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T07:10:53.839845+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:25:53.839847+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about AcmeCorp acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T07:12:53.839849+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:40:53.839852+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:23:53.839854+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:48:53.839856+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:19:53.839859+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T07:20:53.839861+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about HackX acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T10:10:53.839863+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:34:53.839866+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise HackX's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:57:53.839868+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T07:56:53.839871+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise HackX's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:01:53.839873+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T08:10:53.839875+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:08:53.839878+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:25:53.839880+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:29:53.839883+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about YourBrand acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:24:53.839885+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:18:53.839887+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about YourBrand acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:54:53.839889+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:24:53.839892+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about HackX acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T10:02:53.839894+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:40:53.839897+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:07:53.839899+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:52:53.839902+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:03:53.839904+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:46:53.839906+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:10:53.839909+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T08:14:53.839911+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T07:36:53.839913+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:41:53.839916+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:31:53.839918+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:17:53.839920+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise HackX's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:12:53.839923+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:26:53.839925+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:27:53.839928+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:38:53.839930+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T07:43:53.839932+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:43:53.839935+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about AcmeCorp acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:32:53.839937+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:33:53.839939+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T07:21:53.839942+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:02:53.839944+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:35:53.839946+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:33:53.839948+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise HackX's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:44:53.839951+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T07:29:53.839953+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T07:49:53.839956+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about AcmeCorp acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:34:53.839958+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:00:53.839960+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T10:10:53.839963+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about YourBrand acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T09:29:53.839965+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T07:19:53.839968+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise YourBrand's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:07:53.839970+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:08:53.839972+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about HackX acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T10:07:53.839975+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T07:14:53.839977+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:57:53.839980+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:17:53.839982+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:07:53.839984+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:23:53.839987+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:51:53.839989+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:38:53.839991+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T08:13:53.839994+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T07:40:53.839996+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T08:49:53.839998+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:32:53.840001+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:55:53.840003+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:21:53.840005+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:02:53.840008+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T07:18:53.840010+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:58:53.840012+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:59:53.840015+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:34:53.840017+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:23:53.840020+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about AcmeCorp acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T09:39:53.840022+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T10:01:53.840024+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:49:53.840026+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:43:53.840029+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T07:33:53.840031+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:03:53.840034+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:18:53.840036+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T08:42:53.840038+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T09:14:53.840041+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T10:02:53.840043+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T07:46:53.840046+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:39:53.840048+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:06:53.840050+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:27:53.840052+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T08:50:53.840055+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:26:53.840057+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about AcmeCorp acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T07:47:53.840060+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about YourBrand acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T07:41:53.840062+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:46:53.840065+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T09:16:53.840067+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:53:53.840069+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about HackX acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:46:53.840071+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:24:53.840074+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:17:53.840076+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:04:53.840078+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:54:53.840081+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:47:53.840083+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T09:40:53.840086+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise HackX's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T10:10:53.840088+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:08:53.840090+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about AcmeCorp acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:39:53.840093+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T07:55:53.840095+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise YourBrand's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:34:53.840097+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:23:53.840100+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:54:53.840102+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about YourBrand acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T10:01:53.840104+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T07:46:53.840107+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:11:53.840109+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about YourBrand acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T07:27:53.840111+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T10:02:53.840114+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:36:53.840116+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise HackX's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T09:53:53.840118+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:20:53.840121+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:53:53.840123+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T10:10:53.840126+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about HackX acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T07:20:53.840128+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:20:53.840130+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:28:53.840133+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise HackX's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:32:53.840135+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T07:50:53.840137+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T10:07:53.840139+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "AcmeCorp gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:24:53.840142+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T09:57:53.840144+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T10:01:53.840146+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise YourBrand's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:36:53.840149+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:45:53.840151+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise CoffeeDay's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T07:36:53.840154+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about HackX acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:23:53.840156+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about YourBrand acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:45:53.840158+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:11:53.840161+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T10:04:53.840163+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T07:34:53.840165+00:00",
+    "sentiment": "positive"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about CoffeeDay acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:11:53.840168+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "AcmeCorp",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Customers praise AcmeCorp's new feature rollout",
+    "url": "",
+    "published_at": "2025-11-15T08:51:53.840170+00:00",
+    "sentiment": "negative"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "Rumors about HackX acquisition trending",
+    "url": "",
+    "published_at": "2025-11-15T08:08:53.840172+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T07:23:53.840175+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand faces outage report from users",
+    "url": "",
+    "published_at": "2025-11-15T08:47:53.840177+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "YourBrand",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "YourBrand gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T09:07:53.840179+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "HackX",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "HackX recieves backlash for pricing changes",
+    "url": "",
+    "published_at": "2025-11-15T08:17:53.840182+00:00",
+    "sentiment": "neutral"
+  },
+  {
+    "brand": "CoffeeDay",
+    "source": "demo",
+    "author": "demo_user",
+    "text": "CoffeeDay gets mixed reactions after update",
+    "url": "",
+    "published_at": "2025-11-15T08:02:53.840184+00:00",
+    "sentiment": "negative"
+  }
+]

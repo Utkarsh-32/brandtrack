@@ -1,13 +1,17 @@
 import os
 import time
 import django
+import sys
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, BASE_DIR)
 
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "config.settings")
 django.setup()
 
+from app.fetchers.aggregator import fetch_and_ingest_for_brand
 from apscheduler.schedulers.background import BackgroundScheduler
 from app.models import Brand
-from app.fetchers.newsapi_fetcher import fetch_news_for_brand
 
 def job_fetch_all_brands():
     print("Scheduler tick: fetching mentions...")
@@ -16,7 +20,7 @@ def job_fetch_all_brands():
 
     for brand in brands:
         try:
-            fetch_news_for_brand(brand.name)
+            fetch_and_ingest_for_brand(brand.name)
         except Exception as e:
             print(f"Error fetching for {brand.name}: {e}")
 

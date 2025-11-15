@@ -11,3 +11,6 @@ pandas
 apscheduler
 dj-database-url
 gunicorn
+django-cors-headers
+feedparser
+python-dateutil
