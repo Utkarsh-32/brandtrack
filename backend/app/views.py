@@ -5,14 +5,21 @@ from .models import Brand, Mention, Alert
 from .serializers import BrandSerializer, MentionSerializer, AlertSerializer
 from django.db.models import Count
 from django.utils import timezone
+from rest_framework import generics
 
-class CreateBrand(APIView):
-    def post(self, request):
+class BrandListCreateView(generics.ListCreateAPIView):
+    queryset = Brand.objects.all()
+    serializer_class = BrandSerializer
+
+    def create(self, request, *args, **kwargs):
         name = request.data.get("name")
-        if not name:
-            return Response({"error": "name required"}, status=400)
-        b, _ = Brand.objects.get_or_create(name=name)
-        return Response(BrandSerializer(b).data)
+        obj, _ = Brand.objects.get_or_create(name=name)
+        from app.fetchers.aggregator import fetch_and_ingest_for_brand
+        try:
+            fetch_and_ingest_for_brand(obj)
+        except Exception as e:
+            print("Auto-ingest failed:", e)
+        return Response(BrandSerializer(obj).data)
 
 class MentionsView(APIView):
     def get(self, request):
@@ -35,11 +42,8 @@ class SummaryView(APIView):
             return Response({})
 
         now = timezone.now()
-        two_hours = now - timezone.timedelta(hours=2)
-        mentions = Mention.objects.filter(
-            brand=b,
-            published_at__gte=two_hours
-        )
+        two_hours = now - timezone.timedelta(days=7)
+        mentions = Mention.objects.filter(brand=b)
 
         buckets = {}
         for m in mentions:

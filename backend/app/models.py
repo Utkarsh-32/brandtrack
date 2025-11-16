@@ -12,7 +12,7 @@ class Mention(models.Model):
     source = models.CharField(max_length=100)
     author = models.CharField(max_length=200, blank=True, null=True)
     text = models.TextField()
-    url = models.URLField(blank=True, null=True)
+    url = models.URLField(max_length=1000, blank=True, null=True)
     published_at = models.DateTimeField()
     sentiment = models.CharField(max_length=10)
     sentiment_score = models.FloatField(null=True)

@@ -15,7 +15,7 @@ def fetch_rss_for_brand(brand_name, limit=10):
                 if hasattr(e, 'published'):
                     try:
                         pp = e.get("published_parsed")
-                        published = datetime.datetime(*pp[:6], tzinfo=datetime.timezone.utc)
+                        published = datetime.datetime.now(datetime.timezone.utc)
                     except Exception:
                         published = datetime.datetime.now(datetime.timezone.utc)
                 else:
@@ -28,7 +28,7 @@ def fetch_rss_for_brand(brand_name, limit=10):
                     "url": e.get("link", ""),
                     "author": e.get("author", ""),
                     "text": text,
-                    "published_at": published.isoformat(),
+                    "published_at": published,
                     "sentiment": label,
                     "sentiment_score": score,
                     "source": "rss"

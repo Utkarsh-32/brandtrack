@@ -57,10 +57,21 @@ export default function App() {
     return () => clearInterval(interval);
   }, [brand, poll]);
 
-  const handleTrack = async () => {
-    await createBrand(brand);
-    console.log("Tracking brand:", brand);
-  };
+   const handleTrack = async () => {
+  const clean = brand.trim();
+  if (!clean) {
+    console.warn("Empty brand, not sending");
+    return;
+  }
+
+  try {
+    console.log("Sending to backend:", JSON.stringify({ name: clean }));
+    await createBrand(clean);
+    console.log("Brand created:", clean);
+  } catch (err) {
+    console.error("Error creating brand:", err.response?.data || err);
+  }
+};
 
   const chart = summary ? parseBuckets(summary.buckets) : {labels: [], data: []};
 
@@ -77,8 +88,8 @@ export default function App() {
   };
 
   return (
-    <Box sx={{padding: 3}}>
-      <Box sx={{display: "flex", gap: 2, marginBottom: 3}}>
+    <Box sx={{ maxWidth: "900px", margin: "0 auto", padding: 3 }}>
+      <Box sx={{display: "flex", gap: 2, marginBottom: 3, justifyContent:"flex-start"}}>
         <TextField 
           label="Brand"
           value={brand}
